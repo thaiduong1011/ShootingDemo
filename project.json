@@ -1,0 +1,8 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "ShootingDemo",
+  "id": "0db1cb82-7708-4950-8876-9c6f180afbf0",
+  "version": "2.4.2",
+  "isNew": false
+}
